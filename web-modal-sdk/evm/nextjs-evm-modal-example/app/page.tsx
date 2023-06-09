@@ -13,7 +13,7 @@ import { useEffect, useState } from "react";
 
 import RPC from "./web3RPC"; // for using web3.js
 
-const clientId = "BEglQSgt4cUWcj6SKRdu5QkOXTsePmMcusG5EAoyjyOYKlVRjIF1iCNnMOTfpzCiunHRrMui8TIwQPXdkQ8Yxuk"; // get from https://dashboard.web3auth.io
+const clientId = "BOvvpAmEFvSXrqc4PrQoo1pfymuRSoW1vNnJIde2s1aQ-j1pJUUKVr_WWccqRpk1yHph0_dbhSMyQADj_qXetP8"; // get from https://dashboard.web3auth.io
 
 
 export default function App() {
